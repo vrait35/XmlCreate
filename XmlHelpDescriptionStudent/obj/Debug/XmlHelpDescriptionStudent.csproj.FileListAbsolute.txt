@@ -1,0 +1,6 @@
+C:\Users\anuar\source\repos\XmlHelpDescriptionStudent\XmlHelpDescriptionStudent\bin\Debug\XmlHelpDescriptionStudent.exe.config
+C:\Users\anuar\source\repos\XmlHelpDescriptionStudent\XmlHelpDescriptionStudent\bin\Debug\XmlHelpDescriptionStudent.exe
+C:\Users\anuar\source\repos\XmlHelpDescriptionStudent\XmlHelpDescriptionStudent\bin\Debug\XmlHelpDescriptionStudent.pdb
+C:\Users\anuar\source\repos\XmlHelpDescriptionStudent\XmlHelpDescriptionStudent\obj\Debug\XmlHelpDescriptionStudent.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\XmlHelpDescriptionStudent\XmlHelpDescriptionStudent\obj\Debug\XmlHelpDescriptionStudent.exe
+C:\Users\anuar\source\repos\XmlHelpDescriptionStudent\XmlHelpDescriptionStudent\obj\Debug\XmlHelpDescriptionStudent.pdb

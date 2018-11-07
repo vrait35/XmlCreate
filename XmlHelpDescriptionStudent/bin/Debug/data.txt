@@ -1,0 +1,5 @@
+<Shag>
+  <student Name="Anuar" age="20" gender="male">
+    <raiting>12</raiting>
+  </student>
+</Shag>
